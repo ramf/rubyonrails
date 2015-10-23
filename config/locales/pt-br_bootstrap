@@ -1,0 +1,17 @@
+"pt-BR":
+   helpers:
+    actions: "Ações"
+    links:
+      back: "Voltar"
+      cancel: "Cancelar"
+      confirm: "Tem certeza?"
+      destroy: "Excluir"
+      new: "Novo"
+      edit: "Editar"
+      update:"Atualizar"
+    titles:
+      users: "Usuários"
+      edit: "Editar %{model}"
+      save: "Salvar %{model}"
+      new: "Novo %{model}"
+      delete: "Excluir %{model}"
