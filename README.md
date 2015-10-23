@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Mycupmanager
 ================
 
@@ -46,3 +47,7 @@ Credits
 
 License
 -------
+=======
+# rubyonrails
+Ruby on Rails
+>>>>>>> c4aa7aef5409986358c7baadbdf40245993e8cd8
